@@ -1,4 +1,4 @@
-namespace OINO
+namespace Valuable
 {
    public class Symbol
    {
